@@ -1,0 +1,19 @@
+{
+  "musics":[
+    {
+      "img":"https://y.gtimg.cn/music/photo_new/T002R500x500M000001pmrh74IRUZR.jpg",
+      "name":"一个人",
+      "src":"http://ws.stream.qqmusic.qq.com/104947555.m4a?fromtag=46"
+    },
+    {
+      "img":"https://y.gtimg.cn/music/photo_new/T002R300x300M000001IV22P1RDX7p.jpg?max_age=2592000",
+      "name":"可惜没如果",
+      "src":"http://dl.stream.qqmusic.qq.com/C400004295Et37taLD.m4a?vkey=1EA695612A946E37CD7E78160AAA01E8A62F77C5DF5BDBE47A5C0840F207F5FCFFA9CD9373D63BCB40B47D4452416AE249DF125091529D15&guid=8293480607&uin=626712309&fromtag=66"
+    },
+    {
+      "img":"https://y.gtimg.cn/music/photo_new/T002R300x300M000000noD0i1tPu1N.jpg?max_age=2592000",
+      "name":"祈愿",
+      "src":"http://dl.stream.qqmusic.qq.com/C400004McT000uwWh8.m4a?vkey=915CDCF744BFC39F452FA7FEE6D6C92982E7047DAFFF63D0A827CBDDE6EAFA138009A5A224C0D0949A57909855D3ED78498D02742A175344&guid=8293480607&uin=626712309&fromtag=66"
+    }
+  ]
+}
