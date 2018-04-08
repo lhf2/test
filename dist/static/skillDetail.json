@@ -12,11 +12,11 @@
     },{
       "type":"2",
       "name":"熟悉",
-      "detail":["REACT","VUE","ES6","LESS","WEBPACK","PS"]
+      "detail":["VUE","ES6","LESS","WEBPACK","PS"]
     },{
       "type":"3",
       "name":"了解",
-      "detail":["ANGULAR","CORDOVA","NODE.JS","PHP"]
+      "detail":["REACT","ANGULAR","CORDOVA","NODE.JS","PHP"]
     }
   ]
 }
